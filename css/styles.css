@@ -2,20 +2,15 @@
 Sintaxis
 lenguaje de estilos, que complementa a HTML
 NO SE USA PARA EL CONTENIDO
-
 Selector
 nombre {
     propiedad:valor;
 }
-
 .clase{}
 #id{}
 etiqueta{}
-
 *{}
 @media 
-
-
 */
 @import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat:ital,wght@0,100;0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
 
@@ -28,7 +23,7 @@ body{
 }
 
 .header{
-    background-color: tomato;
+    background-color: rgb(239, 48, 15);
 }
 .logo>h1{
     /* font-weight: 400; */
